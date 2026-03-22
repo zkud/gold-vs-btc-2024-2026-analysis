@@ -13,8 +13,10 @@ Both under Public Domain Licence
 
 ## Results
 
-Pearson correlation is 0.41493601725359996
-Kendall correlation is 0.391304347826087
-Spearman correlation is 0.608695652173913
+- Pearson correlation is 0.41493601725359996
+
+- Kendall correlation is 0.391304347826087
+
+- Spearman correlation is 0.608695652173913
 
 That means there is moderate, but not strongly linear correlation between avg gold / btc prices.
